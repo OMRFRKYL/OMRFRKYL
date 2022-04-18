@@ -36,6 +36,7 @@
 🏠 I’m currently living at Bursa, in Turkey <br>
 👨‍💻 I’m currently working as a Jr. Full-stack Developer.<br>
 🌱 I’m currently learning English 🤦‍♂.<br>
+📫 How to reach me **omeryolu16@gmail.com**<br>
 ☕️ I’m coffeer.<br>
 ⚡ Bla bla bla...<br>
 
